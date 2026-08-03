@@ -73,7 +73,6 @@ fun_fact: I enjoy turning ideas into working products
 <img src="https://raw.githubusercontent.com/malekfhima/malekfhima/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> Cette animation nécessite un GitHub Action (voir instructions en bas du fichier).
 
 ---
 
