@@ -40,7 +40,7 @@ fun_fact: I enjoy turning ideas into working products
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,c,python,git,androidstudio,qt,spring,react,laravel,mongodb,express,nodejs&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,c,python,git,androidstudio,qt,spring,react,laravel,mongodb,express,nodejs,flutter,firebase,django&theme=dark&perline=10" />
 <br/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
 
